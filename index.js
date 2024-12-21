@@ -113,7 +113,14 @@ for (let i = 0; i > sayilar.length ; i ++) {
 }
 // 3b çözümü:
 
-/* kodlar buraya */
+let uceTambolunenler = [];
+
+sayilar.forEach(sayi => {
+  if(sayi % 3 === 0) {
+    uceTambolunenler.push(sayi)
+  }
+});
+
 
 // 3c çözümü:
 
