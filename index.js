@@ -124,7 +124,9 @@ sayilar.forEach(sayi => {
 
 // 3c çözümü:
 
-/* kodlar buraya */
+let uceBolunenlerinToplami = uceTambolunenler.reduce((toplam,yeni) => toplam + yeni , 0);
+console.log(uceBolunenlerinToplami)
+
 
 // 3d çözümü
 
