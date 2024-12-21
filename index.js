@@ -130,7 +130,10 @@ console.log(uceBolunenlerinToplami)
 
 // 3d çözümü
 
-/* kodlar buraya */
+let besYuzdenkucukSayilar = [];
+sayilar.filter((sayi) => sayi < 500);
+console.log(besYuzdenkucukSayilar)
+
 
 // 3e çözümü
 
