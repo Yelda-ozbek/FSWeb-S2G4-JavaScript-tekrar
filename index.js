@@ -137,7 +137,12 @@ console.log(besYuzdenkucukSayilar)
 
 // 3e çözümü
 
-/* kodlar buraya */
+let siraliSayilar = [];
+
+  siraliSayilar = besYuzdenkucukSayilar.sort((a,b) => b - a);
+  console.log(siraliSayilar);
+
+
 
 // 3f çözümü
 
