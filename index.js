@@ -101,8 +101,16 @@ let ucetambolunenler,
 
 // 3a çözümü
 
-/* kodlar buraya */
-
+let enKucukSayi ;
+for (let i = 0; i>sayilar.length ; i++) {
+     sayilar[i] < enKucukSayi;
+     sayilar [i] = enKucukSayi;
+}
+let enBuyukSayi;
+for (let i = 0; i > sayilar.length ; i ++) {
+  sayilar[i] > sayilar.length;
+  sayilar[i] = enBuyukSayi;
+}
 // 3b çözümü:
 
 /* kodlar buraya */
